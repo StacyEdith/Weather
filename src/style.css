@@ -1,5 +1,5 @@
 body {
-  background-color: #e3f4fe;
+  background-color: #f7fcff;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -17,12 +17,12 @@ a {
 }
 
 header {
-  border-bottom: 1px solid #e3f4fe;
+  border-bottom: 1px solid #f7fcff;
   padding: 0 0 30px 0;
 }
 
 .search-form-input {
-  background-color: #e3f4fe;
+  background-color: #f7fcff;
   border: none;
   border-radius: 6px;
   width: 80%;
@@ -87,7 +87,7 @@ main {
 }
 
 footer {
-  border-top: 1px solid #e3f4fe;
+  border-top: 1px solid #f7fcff;
   padding: 30px 0 0 0;
   text-align: center;
   font-size: 13px;
